@@ -290,7 +290,6 @@ DATABASE_URL=postgresql://username:password@localhost:5432/shortlink
 
 JWT_SECRET=your_secret_key
 
-JWT_EXPIRES_IN=7d
 ```
 
 ---
