@@ -9,7 +9,7 @@ export const generateToken = (user) => {
         email: user.email,
         username: user.username
     };
-    return jwt.sign(payload, process.env.JWT_SECRET_KEY, { expiresIn: "1d" });
+    return jwt.sign(payload, process.env.JWT_SECRET_KEY, { expiresIn: "15m" });
 }
 
 export const verifyToken = (token) => {
