@@ -42,9 +42,6 @@ router.delete("/:shortCode", isAuthenticated, async (req, res) => {
     const user = req.user;
     const code = req.params.shortCode;
     try{
-        if(!isAuthorisedtoDel){
-            return res.status(400).json({status:"failed",message:`${user.username} is not authorised.`})
-        }
         const deletedCodes = await deleteUrlByShortCode(code, user.id);
         if(!deletedCodes){
             return res.status(404).json({ message: "URL not found" });
