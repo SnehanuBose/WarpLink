@@ -112,7 +112,7 @@ src
 │   ├── token.util.js
 │   └── hashgenerator.util.js
 │
-└── server.js
+└── index.js
 ```
 
 ---
