@@ -112,7 +112,7 @@ src
 │   ├── token.util.js
 │   └── hashgenerator.util.js
 │
-└── server.js
+└── index.js
 ```
 
 ---
@@ -290,7 +290,6 @@ DATABASE_URL=postgresql://username:password@localhost:5432/shortlink
 
 JWT_SECRET=your_secret_key
 
-JWT_EXPIRES_IN=7d
 ```
 
 ---
@@ -300,13 +299,13 @@ JWT_EXPIRES_IN=7d
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/shortlink-api.git
+git clone https://github.com/yourusername/warplink.git
 ```
 
 ## Navigate Into Project
 
 ```bash
-cd shortlink-api
+cd warplink
 ```
 
 ## Install Dependencies
