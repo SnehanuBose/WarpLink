@@ -300,13 +300,13 @@ JWT_EXPIRES_IN=7d
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/shortlink-api.git
+git clone https://github.com/yourusername/warplink.git
 ```
 
 ## Navigate Into Project
 
 ```bash
-cd shortlink-api
+cd warplink
 ```
 
 ## Install Dependencies
