@@ -1,10 +1,6 @@
-# 🔗 ShortLink API
+# 🔗 WarpLink API
 
 <div align="center">
-
-<img src="./assets/banner.png" alt="ShortLink Banner" width="100%" />
-
-<br>
 
 ### 🚀 Secure • Fast • Scalable URL Shortener API
 
@@ -13,17 +9,7 @@ Create, manage, and share shortened URLs with JWT Authentication, PostgreSQL, an
 
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge\&logo=express)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?style=for-the-badge)
-
-![JWT](https://img.shields.io/badge/JWT-Authentication-D63AFF?style=for-the-badge)
-
-![Zod](https://img.shields.io/badge/Zod-Validation-3068B7?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge\&logo=node.js\&logoColor=white)      ![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge\&logo=express)     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)        ![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?style=for-the-badge)     ![JWT](https://img.shields.io/badge/JWT-Authentication-D63AFF?style=for-the-badge)      ![Zod](https://img.shields.io/badge/Zod-Validation-3068B7?style=for-the-badge)
 
 </div>
 
